@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://cdn.dribbble.com/users/281525/screenshots/1768570/media/2669447cca1fb2702039f59dcd9717f3.gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Vivek Rathore</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekrathore2002&label=Profile%20views&color=0e75b6&style=flat" alt="vivekrathore2002" /> </p>
