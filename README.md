@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)](https://rishavchanda.io)
+<!-- [![MasterHead](https://cdn.dribbble.com/users/281525/screenshots/1768570/media/2669447cca1fb2702039f59dcd9717f3.gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Vivek Rathore</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
